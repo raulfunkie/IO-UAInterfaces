@@ -13,3 +13,12 @@
 * `grid-template-columns: repeat` & `auto-fit` & `minmax()`
 * `gap` define vertical / horizontal space (in that order)
 * `grid` within `grid` within `grid`
+* Smart use of custom properties for declarations like: `gap`, `border`, `border-radius`, etc.
+* `clip-path`
+* `display: inline-grid`
+* Smart use of `:is()`
+* `block-size` use on SVG elements
+* `inline-size` to increase the size of Checkboxes (?)
+* Smart and optimize use of padding using CSS Variables
+* CSS Variables are so fucking awesome. My mind is blown. 🤯
+* 
