@@ -21,4 +21,4 @@
 * `inline-size` to increase the size of Checkboxes (?)
 * Smart and optimize use of padding using CSS Variables
 * CSS Variables are so fucking awesome. My mind is blown. 🤯
-* 
+* CSS Grid is insanely useful for building screens, controls and more, with proper and smart usage of `gap`, `auto-fit` and more.
